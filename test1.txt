@@ -1,1 +1,2 @@
-adding another file
+my new file
+new file
